@@ -8,8 +8,7 @@ displayName="Coffee Delight"
 logoFile="CoffeeDelight.png"
 credits="Someoneice"
 authors="Someoneice"
-description='''
-'''
+description='''Fix your shit'''
 [[dependencies.coffee_delight]]
     modId="forge"
     mandatory=true
